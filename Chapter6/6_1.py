@@ -30,7 +30,7 @@
 
 # word = key_pairs["c"]
 
-# print("word ==>", word)  #will not work trying to access a varibal that does not exist
+print("word ==>", word)  #will not work trying to access a varibal that does not exist
 
 
 
